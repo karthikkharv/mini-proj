@@ -3,7 +3,7 @@ import re
 import google.generativeai as genai
 
 # Configure the API key for the Generative AI service
-genai.configure(api_key='AIzaSyB3-kv7Hzn0ky3h62pe_b6gS3bnANTOzW8')
+genai.configure(api_key='API-KEY')
 
 # Define the template for generating cartoon panels
 template = """
